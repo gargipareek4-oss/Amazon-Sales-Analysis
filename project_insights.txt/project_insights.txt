@@ -1,0 +1,17 @@
+AMAZON SALES ANALYSIS - KEY INSIGHTS
+
+1. Analyzed approximately 129,000 Amazon sales records.
+
+2. Performed data cleaning by handling missing values and removing unnecessary columns.
+
+3. Identified top-performing product categories based on revenue.
+
+4. Analyzed sales contribution by states and cities.
+
+5. Compared Amazon and Merchant fulfilment performance.
+
+6. Studied monthly sales trends and customer purchasing patterns.
+
+7. Created visualizations for category sales, state sales, and monthly trends.
+
+8. Generated business insights to support data-driven decision making.
