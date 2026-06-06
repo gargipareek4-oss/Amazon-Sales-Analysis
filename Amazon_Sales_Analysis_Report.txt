@@ -1,0 +1,126 @@
+# AMAZON SALES ANALYSIS REPORT
+
+## 1. Project Overview
+
+The objective of this project is to analyze Amazon sales data and generate meaningful business insights. The analysis focuses on sales performance, product trends, fulfillment methods, customer segmentation, and geographical distribution of sales.
+
+---
+
+## 2. Dataset Description
+
+The dataset contains Amazon sales transactions with approximately 129,000 records and 21 attributes.
+
+Key Columns:
+
+* Order ID
+* Date
+* Status
+* Category
+* Size
+* Quantity
+* Amount
+* Fulfilment
+* Ship City
+* Ship State
+* B2B
+
+---
+
+## 3. Data Cleaning
+
+The following preprocessing steps were performed:
+
+* Removed unnecessary columns (New, PendingS)
+* Handled missing values in Amount column
+* Converted Date column into datetime format
+* Verified data types
+* Removed incomplete records affecting analysis
+
+---
+
+## 4. Sales Overview
+
+Metrics Calculated:
+
+* Total Sales Revenue
+* Total Orders
+* Average Order Value
+
+These metrics provide an overall understanding of business performance.
+
+---
+
+## 5. Product Analysis
+
+Product categories were analyzed to identify top-performing products.
+
+Findings:
+
+* Certain categories contributed significantly more revenue.
+* Product demand varied across categories.
+* Revenue concentration was observed in a few key product groups.
+
+---
+
+## 6. Geographical Analysis
+
+State-wise and city-wise sales analysis was performed.
+
+Findings:
+
+* Major metropolitan regions generated higher revenue.
+* Certain states consistently contributed to sales growth.
+* Geographic trends highlighted key target markets.
+
+---
+
+## 7. Fulfillment Analysis
+
+Sales were analyzed based on fulfillment method.
+
+Findings:
+
+* Both Amazon Fulfillment and Merchant Fulfillment contributed to revenue.
+* Fulfillment strategy impacts customer experience and operational efficiency.
+
+---
+
+## 8. Customer Segmentation
+
+Customers were segmented into:
+
+* B2B Customers
+* B2C Customers
+
+Findings:
+
+* B2C customers contributed the majority of transactions.
+* B2B customers represented a smaller but important segment.
+* Different customer groups show different purchasing behavior.
+
+---
+
+## 9. Visualizations
+
+The following visualizations were created:
+
+* Sales by Category
+* Top States by Sales
+* Monthly Sales Trend
+* B2B vs B2C Sales
+
+---
+
+## 10. Business Recommendations
+
+1. Focus inventory on high-performing categories.
+2. Increase marketing efforts in top-performing states.
+3. Improve fulfillment efficiency to reduce delays.
+4. Develop targeted campaigns for B2B customers.
+5. Monitor monthly sales trends for demand forecasting.
+
+---
+
+## 11. Conclusion
+
+The project successfully analyzed Amazon sales data and generated actionable insights. The findings can help improve decision-making related to inventory management, customer targeting, regional expansion, and sales growth.

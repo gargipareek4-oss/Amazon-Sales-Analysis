@@ -15,3 +15,7 @@ AMAZON SALES ANALYSIS - KEY INSIGHTS
 7. Created visualizations for category sales, state sales, and monthly trends.
 
 8. Generated business insights to support data-driven decision making.
+
+9. B2C customers generated the majority of sales revenue compared to B2B customers.
+
+10. Customer segmentation revealed different purchasing patterns between business and individual customers.
